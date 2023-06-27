@@ -68,13 +68,13 @@ nav ul li a {
     text-decoration: none;
     display: block;
     font-size: 11pt;
-    transition: all 0.5s ease 0.2s;
+    transition: all 0.3s;
 }
 
 nav ul li a:hover {
-    color: #fff;
-    background-color: #333;
-    text-indent: 20px;
+    color: #333;
+    background-color: #cecece;
+    text-indent: 4ren;
 }
 
 section {
