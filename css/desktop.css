@@ -63,18 +63,18 @@ nav ul li {
 }
 
 nav ul li a {
-    background-color: green;
-    color: #333;
+    background-color: black;
+    color: white;
     text-decoration: none;
     display: block;
     font-size: 11pt;
-    transition: all 0.3s;
+    transition: all 0.5s ease 0.2s;
 }
 
 nav ul li a:hover {
-    color: #333;
-    background-color: #cecece;
-    text-indent: 4ren;
+    color: #fff;
+    background-color: #333;
+    text-indent: 20px;
 }
 
 section {
@@ -115,7 +115,7 @@ footer {
     clear: both; /* limpa o efeito dos floats anteriores */
     width: 100%;
     line-height: 50px;
-    text-align: right;
+    text-align: center;
     border-top: 1px solid #333;
 }
 
